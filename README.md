@@ -5,7 +5,7 @@ I've been making this collection of "useful code" chunks since my PhD. Most of i
 
 A lot of it is clunky, there are basically no functions (I still cannot write my own functions) 
 
-There is NO TIDYVERSE. Sorry not sorry, I just spent a LOT of time getting my head around Base R during my PhD and then all of a sudden you lot come along with your tidyverse stuff and start taking over the world and expect me to just RELEARN everything? Sorry not happening. 
+There is NO TIDYVERSE. Sorry not sorry, I just spent a LOT of time getting my head around Base R during my PhD and then all of a sudden you lot come along with your tidyverse stuff and start taking over the world and expect me to just RELEARN everything? Sorry not happening. (It's possible that SOME tidyverse slipped in there without me realising? i actually have no idea tbh)
 
 So in that sense it's probably useless to lots of people unless your hardcore BaseR, and most of you learnt R before me so this will all be too basic for you. But whatever. 
 
